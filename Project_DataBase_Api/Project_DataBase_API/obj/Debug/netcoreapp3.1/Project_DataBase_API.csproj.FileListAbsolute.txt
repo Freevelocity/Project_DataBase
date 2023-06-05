@@ -1,0 +1,6 @@
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Project_DataBase_API\obj\Debug\netcoreapp3.1\Project_DataBase_API.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Project_DataBase_API\obj\Debug\netcoreapp3.1\Project_DataBase_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Project_DataBase_API\obj\Debug\netcoreapp3.1\Project_DataBase_API.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Project_DataBase_API\obj\Debug\netcoreapp3.1\Project_DataBase_API.AssemblyInfo.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Project_DataBase_API\obj\Debug\netcoreapp3.1\Project_DataBase_API.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Project_DataBase_API\obj\Debug\netcoreapp3.1\Project_DataBase_API.MvcApplicationPartsAssemblyInfo.cache

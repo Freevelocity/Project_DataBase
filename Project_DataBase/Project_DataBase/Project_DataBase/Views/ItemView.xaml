@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Project_DataBase.ViewModel"
+             x:Class="Project_DataBase.View.ItemView"
+             Title="{Binding SubCatagoryName}">
+    <ContentPage.BindingContext>
+        <local:ItemViewModel/>
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+
+        <CollectionView ItemsSource="{Binding itemList}" SelectionMode="Single">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10,20,10,20">
+                        <Frame>
+                            <Label Text="{Binding Name}" HorizontalOptions="Center" FontSize="Large"/>
+                        </Frame>
+                    </Grid>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

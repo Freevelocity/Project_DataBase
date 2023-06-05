@@ -1,0 +1,5 @@
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Service_Layer\obj\Debug\netcoreapp3.1\Service_Layer.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Service_Layer\obj\Debug\netcoreapp3.1\Service_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Service_Layer\obj\Debug\netcoreapp3.1\Service_Layer.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Service_Layer\obj\Debug\netcoreapp3.1\Service_Layer.AssemblyInfo.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Service_Layer\obj\Debug\netcoreapp3.1\Service_Layer.csproj.CoreCompileInputs.cache

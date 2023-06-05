@@ -1,0 +1,5 @@
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Business_Logic_Layer\obj\Debug\netcoreapp3.1\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Business_Logic_Layer\obj\Debug\netcoreapp3.1\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Business_Logic_Layer\obj\Debug\netcoreapp3.1\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Business_Logic_Layer\obj\Debug\netcoreapp3.1\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Business_Logic_Layer\obj\Debug\netcoreapp3.1\Business_Logic_Layer.csproj.CoreCompileInputs.cache

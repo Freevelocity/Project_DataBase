@@ -1,0 +1,12 @@
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\bin\Debug\net6.0\Model_Layer.deps.json
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\bin\Debug\net6.0\Model_Layer.dll
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\bin\Debug\net6.0\Model_Layer.pdb
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\Model_Layer.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\Model_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\Model_Layer.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\Model_Layer.AssemblyInfo.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\Model_Layer.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\Model_Layer.dll
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\refint\Model_Layer.dll
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\Model_Layer.pdb
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase_Api\Model_Layer\obj\Debug\net6.0\ref\Model_Layer.dll

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Project_DataBase.ViewModel"
+             x:Class="Project_DataBase.View.SubCatagoryView"
+             NavigationPage.HasBackButton="True"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+       <local:SubCategoryViewModel/> 
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <RefreshView Command="{Binding GetSubCatsCommand}" IsRefreshing="{Binding IsBusy}" >
+            <CollectionView ItemsSource="{Binding SubCatagoryList}" 
+                        SelectionMode="Single" SelectedItem ="{Binding selectedSubCatagoryModel}" 
+                        SelectionChangedCommand="{Binding SelectedSubCatagoryChangedCommand}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="10,20,10,20">
+                            <Frame>
+                                <Label Text="{Binding name}" HorizontalOptions="Center" FontSize="Large"/>
+                            </Frame>
+                        </Grid>
+
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+    </StackLayout>
+
+
+
+</ContentPage>

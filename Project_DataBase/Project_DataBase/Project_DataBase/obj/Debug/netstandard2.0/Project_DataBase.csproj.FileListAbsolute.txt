@@ -1,0 +1,17 @@
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\bin\Debug\netstandard2.0\Project_DataBase.deps.json
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\bin\Debug\netstandard2.0\Project_DataBase.dll
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\bin\Debug\netstandard2.0\Project_DataBase.pdb
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Project_DataBase.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Project_DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Views\CategoriesView.xaml.g.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Views\ItemView.xaml.g.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Views\SubCategoryView.xaml.g.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Project_DataBase.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Project_DataBase.AssemblyInfo.cs
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Project_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Project_DataBase.dll
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\refint\Project_DataBase.dll
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\Project_DataBase.pdb
+C:\Users\moham\Desktop\CrossPlatform\Project_DataBase\Project_DataBase\Project_DataBase\obj\Debug\netstandard2.0\ref\Project_DataBase.dll
